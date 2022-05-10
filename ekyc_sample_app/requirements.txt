@@ -1,0 +1,14 @@
+azure-ai-formrecognizer==3.0.0
+azure-ai-textanalytics==5.1.0b3
+azure-cognitiveservices-vision-computervision==0.8.0
+azure-mgmt-core==1.2.2
+azure-mgmt-storage==17.0.0
+azure-storage-blob==12.8.0
+date-extractor==5.1.5
+datefinder==0.7.1
+dateparser==1.0.0
+parse==1.19.0
+python-dateutil==2.8.1
+regex==2021.4.4
+requests==2.25.1
+Streamlit==1.8.1
